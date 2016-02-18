@@ -4,7 +4,10 @@
 //
 //  Created by Stuart Hoffman on 2/17/16.
 //  Copyright © 2016 Stuart Hoffman. All rights reserved.
-//
+//<a href="http://www.freepik.com/free-vector/school-supplies-pack_740865.htm">Designed by Freepik</a>
+//Background, Coin and Ticket courtesy of <a href="http://www.freepik.com">Designed by Freepik</a>
+
+
 
 import UIKit
 
